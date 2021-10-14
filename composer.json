@@ -1,0 +1,28 @@
+{
+    "name": "bluestorm/imports",
+    "description": "Imports Addon for Statamic",
+    "autoload": {
+        "psr-4": {
+            "BlueStorm\\Imports\\": "src"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ben Gibson"
+        }
+    ],
+    "support": {
+        "email": "support@statamic.com"
+    },
+    "extra": {
+        "statamic": {
+            "name": "Imports",
+            "description": "Imports addon for Statamic Collections"
+        },
+        "laravel": {
+            "providers": [
+                "BlueStorm\\Imports\\ImportsServiceProvider"
+            ]
+        }
+    }
+}
