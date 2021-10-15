@@ -16,10 +16,6 @@
         "email": "support@statamic.com"
     },
     "extra": {
-        "statamic": {
-            "name": "Imports",
-            "description": "Imports addon for Statamic Collections"
-        },
         "laravel": {
             "providers": [
                 "BlueStorm\\Imports\\ImportsServiceProvider"
