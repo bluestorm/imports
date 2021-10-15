@@ -1,6 +1,7 @@
 {
     "name": "bluestorm/imports",
     "description": "Imports Addon for Statamic",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "BlueStorm\\Imports\\": "src"
