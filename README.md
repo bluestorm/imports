@@ -1,2 +1,2 @@
 # imports
-Imports addon for Statamic collections with support for CSV, XML, JSON
+Imports addon for Statamic 3 collections with support for CSV, XML, JSON
