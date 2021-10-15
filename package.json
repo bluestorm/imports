@@ -13,7 +13,8 @@
         "cross-env": "^7.0.2",
         "laravel-mix": "^5.0.4",
         "underscore": "~1.9.2",
-        "vue": "^2.6.11"
+        "vue": "^2.6.11",
+        "underscore": ">=1.12.1"
     },
     "devDependencies": {
         "vue-template-compiler": "^2.6.11"
