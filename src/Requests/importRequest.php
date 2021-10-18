@@ -16,7 +16,7 @@ class ImportRequest extends FormRequest {
     {
         return [
             'name' => 'required',
-            //'file' => 'required|mimetypes:text/csv,xml',
+            'file' => 'required|mimetypes:text/csv,xml,json',
             'collectionHandle' => 'required',
         ];
     }
